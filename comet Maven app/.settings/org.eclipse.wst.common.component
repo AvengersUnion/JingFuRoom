@@ -3,7 +3,7 @@
         <wb-resource deploy-path="/" source-path="/WebRoot" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/scr/main/test"/>
         <property name="context-root" value="comet_Maven_app"/>
         <property name="java-output-path" value="/comet Maven app/target/classes"/>
     </wb-module>
